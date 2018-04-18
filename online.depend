@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1486231787 source:c:\users\asus\desktop\projectc++\online\main.cpp
+	<iostream>
+	"Balance.h"
+	"Product.h"
+	"Bag.h"
+	"Shoe.h"
+	"Information.h"
+	"Admin.h"
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1486231720 c:\users\asus\desktop\projectc++\online\include\balance.h
+	<iostream>
+	"Bag.h"
+	"Shoe.h"
+	"Product.h"
+
+1486123004 c:\users\asus\desktop\projectc++\online\include\bag.h
+	"Product.h"
+	<fstream>
+	<iostream>
+
+1485949559 c:\users\asus\desktop\projectc++\online\include\product.h
+	<iostream>
+
+1486216865 c:\users\asus\desktop\projectc++\online\include\shoe.h
+	<iostream>
+	"Product.h"
+	<fstream>
+
+1486231368 c:\users\asus\desktop\projectc++\online\include\information.h
+	"Balance.h"
+	<fstream>
+	<iostream>
+
+1486146044 source:c:\users\asus\desktop\projectc++\online\src\bag.cpp
+	"Bag.h"
+	<iomanip>
+	"Product.h"
+	<fstream>
+	<iostream>
+
+1486231441 source:c:\users\asus\desktop\projectc++\online\src\balance.cpp
+	"Balance.h"
+
+1486231368 source:c:\users\asus\desktop\projectc++\online\src\information.cpp
+	"Information.h"
+	<fstream>
+	"Balance.h"
+	<iomanip>
+	<string.h>
+	<iostream>
+
+1486146044 source:c:\users\asus\desktop\projectc++\online\src\product.cpp
+	"Product.h"
+	<iomanip>
+	<iostream>
+
+1485969783 source:c:\users\asus\desktop\projectc++\online\src\shoe.cpp
+	"Shoe.h"
+	"Product.h"
+	<fstream>
+	<iomanip>
+	<string.h>
+	<iostream>
+
+1486144516 c:\users\asus\desktop\projectc++\online\include\admin.h
+	<iostream>
+	"Admin.h"
+
+1486144616 source:c:\users\asus\desktop\projectc++\online\src\admin.cpp
+	"Admin.h"
+	<string.h>
+
+1486144616 source:f:\project 2-1\projectc++\online\src\admin.cpp
+	"Admin.h"
+	<string.h>
+
+1486144516 f:\project 2-1\projectc++\online\include\admin.h
+	<iostream>
+	"Admin.h"
+
+1486146044 source:f:\project 2-1\projectc++\online\src\bag.cpp
+	"Bag.h"
+	<iomanip>
+	"Product.h"
+	<fstream>
+	<iostream>
+
+1486123004 f:\project 2-1\projectc++\online\include\bag.h
+	"Product.h"
+	<fstream>
+	<iostream>
+
+1485949559 f:\project 2-1\projectc++\online\include\product.h
+	<iostream>
+
+1486231441 source:f:\project 2-1\projectc++\online\src\balance.cpp
+	"Balance.h"
+
+1486231720 f:\project 2-1\projectc++\online\include\balance.h
+	<iostream>
+	"Bag.h"
+	"Shoe.h"
+	"Product.h"
+
+1486216865 f:\project 2-1\projectc++\online\include\shoe.h
+	<iostream>
+	"Product.h"
+	<fstream>
+
+1486231368 source:f:\project 2-1\projectc++\online\src\information.cpp
+	"Information.h"
+	<fstream>
+	"Balance.h"
+	<iomanip>
+	<string.h>
+	<iostream>
+
+1486231368 f:\project 2-1\projectc++\online\include\information.h
+	"Balance.h"
+	<fstream>
+	<iostream>
+
+1486146044 source:f:\project 2-1\projectc++\online\src\product.cpp
+	"Product.h"
+	<iomanip>
+	<iostream>
+
+1485969783 source:f:\project 2-1\projectc++\online\src\shoe.cpp
+	"Shoe.h"
+	"Product.h"
+	<fstream>
+	<iomanip>
+	<string.h>
+	<iostream>
+
